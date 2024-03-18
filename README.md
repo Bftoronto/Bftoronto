@@ -1,16 +1,17 @@
-### Hi there 👋
+### Salute, I'm Alexander 👋🏽  
+ 
+## 📦 Stack
 
-<!--
-**Bftoronto/Bftoronto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backendend Development:** `Python` `Swift` `FastAPI` `Django (+ DRF)` `GraphQL`
 
-Here are some ideas to get you started:
+**SQL / NoSQL / ORM:** `PostgreSQL` `MySQL` / `Redis` `MongoDB` / `SQL Alchemy` `TortoiseORM`
+ 
+**Version Control / CI/CD:** `Git` `GitLab` `Docker` `Kubernetes`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Testing:** `Pytest` `Unittest`  `Postman` 
+
+**Others:** `RabbitMQ` `Prometheus` `Pydantic` `Scrum` `OOP` `Jira`
+
+## 📫 Contact
+
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/alexander-krstich/). 
