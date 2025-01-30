@@ -11,7 +11,3 @@
 **Testing:** `Pytest` `Unittest`  `Postman` 
 
 **Others:** `RabbitMQ` `Prometheus` `Pydantic` `Scrum` `OOP` `Jira`
-
-## 📫 Contact
-
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/alexander-krstich/). 
